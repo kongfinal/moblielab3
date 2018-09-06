@@ -1,0 +1,26 @@
+body  {background-color:#A6E0DD;} 
+
+        
+        article {                                                  
+            background-color:rgb(43, 226, 125);               
+        }
+        section {
+            float: left;
+            padding: 20x;
+            top: 10%;  
+            left: 40%;        
+            background-color: #e8eb36;
+            text-align: center;
+            height: 300px; 
+            width: 450px;
+            position:absolute;
+            border:1px black;
+                            
+        }
+
+
+    
+        .text{
+            padding: 10px 20px;
+        }
+    
